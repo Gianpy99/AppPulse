@@ -1,0 +1,15 @@
+{
+  "app_name": "App1",
+  "alerts": [
+    {
+      "type": "downtime",
+      "threshold_seconds": 60,
+      "channels": ["email", "slack"]
+    },
+    {
+      "type": "error_rate",
+      "threshold_percentage": 5,
+      "channels": ["telegram"]
+    }
+  ]
+}
