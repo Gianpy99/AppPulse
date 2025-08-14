@@ -1,0 +1,13 @@
+{
+  "app_name": "App1",
+  "version": "v1.0.0",
+  "status": "UP",
+  "uptime_percentage": 99.9,
+  "last_deploy": "2025-08-14T12:00:00Z",
+  "metrics": {
+    "requests": 1024,
+    "errors": 2,
+    "avg_response_time_ms": 120
+  },
+  "timestamp": "2025-08-14T12:00:00Z"
+}
